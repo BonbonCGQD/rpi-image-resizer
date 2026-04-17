@@ -26,13 +26,3 @@ A simple Python GUI application to resize images for common Raspberry Pi LCD mod
 3. Choose the target resolution and resize mode.
 4. Click "Resize and Save" to choose a destination and save the image.
 
-## GitHub Push Instructions
-
-If you want to push this to your own GitHub repository:
-1. Create a new repository on GitHub.
-2. Run the following commands:
-   ```bash
-   git branch -M main
-   git remote add origin <YOUR_GITHUB_REPO_URL>
-   git push -u origin main
-   ```
