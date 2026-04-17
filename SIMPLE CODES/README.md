@@ -9,7 +9,7 @@ A simple Python GUI application to resize images for common Raspberry Pi LCD mod
   - **Crop (Fill):** Keeps aspect ratio, scales to the larger dimension, and crops excess.
   - **Stretch:** Ignores aspect ratio, stretches the image to the target resolution.
 
-## Installation (Note you should have python installed)
+## Installation (Note Python Required)
 link: https://www.python.org/ftp/python/3.13.13/python-3.13.13-amd64.exe
 
 1. Install the required dependencies:
